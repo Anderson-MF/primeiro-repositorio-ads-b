@@ -1,4 +1,4 @@
-esse e meu primeiro aquivo do GitHub
+esse e meu primeiro aquivo do GitHub!
 
 
-fim;
+fim.
